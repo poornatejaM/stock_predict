@@ -1,0 +1,11 @@
+yfinance
+sklearn.preprocessing
+matplotlib.pyplot
+numpy
+tensorflow
+keras
+sklearn.linear_model
+sklearn.ensemble
+sklearn.tree
+sklearn.metrics
+xgboost
